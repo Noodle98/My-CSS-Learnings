@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noodle98/My-CSS-Learnings.git"
+  },
+  "author": "Noodle98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noodle98/My-CSS-Learnings/issues"
+  },
+  "homepage": "https://github.com/Noodle98/My-CSS-Learnings#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
